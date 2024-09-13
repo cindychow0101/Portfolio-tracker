@@ -1,7 +1,7 @@
 # Portfolio management system
 
 ## Overview
-This system is a personal porfolio management tool that allows users to track their ticker(i.e. stock) investments. It enables users to add transactions, update quantities of tickers, and track the current prices of tickers. 
+This system is a personal portfolio management tool that allows users to track their ticker(i.e. stock) investments. It enables users to add transactions, update quantities of tickers, and track the current prices of tickers. 
 
 ## Features
 - **Add Transactions:** Record new ticker purchases and sales.
