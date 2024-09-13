@@ -63,6 +63,6 @@ After initialising, there are serveral functions you can use to manage your port
 - **Example:**
 ![Track](/images/track.png)
 
-### Example outcome of database
+### Example outcome of database:
 ![Ticker](/images/ticker.png)
 ![Transaction](/images/transaction.png)
