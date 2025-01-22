@@ -1,5 +1,4 @@
 # Portfolio Tracker
-url: https://cindychow0101-portfolio-management-system-streamlit-app-mpelpy.streamlit.app/
 
 ## Overview
 This system is a platform for investment beginners to perform simple investment simulations. It enables users to perform real-time price tracking, stock information search, and email notifications. 
