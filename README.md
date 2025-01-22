@@ -1,4 +1,4 @@
-# Portfolio management system
+# Portfolio Tracker
 
 ## Overview
 This system is a platform for investment beginners to perform simple investment simulations. It enables users to perform real-time price tracking, stock information search, and email notifications. 
