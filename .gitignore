@@ -1,7 +1,5 @@
 .venv
-example.txt
 .DS_Store
 .streamlit
 __pycache__
 .env
-portfolio.db
