@@ -4,3 +4,4 @@ example.txt
 .streamlit
 __pycache__
 .env
+portfolio.db
